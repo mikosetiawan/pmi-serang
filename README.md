@@ -1,6 +1,6 @@
 # PMI Serang
 
-Website sederhana PMII ini dibuat opensource untuk sahabat PMII di mana pun berada, website ini dapat digunakan atau diubah sesuai kebutuhan.
+Website sederhana PMI Serang ini dibuat opensource untuk sahabat PMII di mana pun berada, website ini dapat digunakan atau diubah sesuai kebutuhan.
 Website ini dibuat dengan Framework Laravel 10, Bootstrap 5, Livewire, Spatie Permission, dan Spatie Role.
 
 ## Features
